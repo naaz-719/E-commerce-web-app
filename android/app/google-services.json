@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "486760701872",
+    "project_id": "sadafarts-f59d8",
+    "storage_bucket": "sadafarts-f59d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486760701872:android:a5d5ddef88d293bf2cc075",
+        "android_client_info": {
+          "package_name": "com.example.arts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4NgNddDV3slxuoSeSyQaTyVZxhKG_JOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

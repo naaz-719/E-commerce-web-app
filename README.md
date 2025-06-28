@@ -39,9 +39,17 @@ AI-enhanced interaction with chatbot and product visuals
 Responsive design optimized for both mobile and web platforms
 
 
+# Screenshot
+https://github.com/naaz-719/E-commerce-web-app/blob/5050d36a14b6303308c6548f8eae7fb67409c363/Project%20images/img1.jpg
+
+
+
 
 # NOTE:
 *This repository does not include the complete source code. Core implementation files have been deliberately excluded to protect proprietary work and prevent unauthorized replication. The shared content is for reference and demonstration purposes only.*
+
+
+
 
 
 

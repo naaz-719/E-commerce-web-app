@@ -41,7 +41,7 @@ Responsive design optimized for both mobile and web platforms
 
 
 # NOTE:
-* This repository does not include the complete source code. Core implementation files have been deliberately excluded to protect proprietary work and prevent unauthorized replication. The shared content is for reference and demonstration purposes only.*
+*This repository does not include the complete source code. Core implementation files have been deliberately excluded to protect proprietary work and prevent unauthorized replication. The shared content is for reference and demonstration purposes only.*
 
 
 
